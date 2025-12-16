@@ -1,0 +1,6 @@
+com\example\test_curd\entity\User.class
+com\example\test_curd\service\UserService.class
+com\example\test_curd\repository\UserRepository.class
+com\example\test_curd\service\impl\UserServiceImpl.class
+com\example\test_curd\controller\UserController.class
+com\example\test_curd\TestCurdApplication.class
